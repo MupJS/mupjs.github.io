@@ -1,0 +1,5 @@
+<p class="has-text-centered">
+Mup is a simple solution to a simple problem. I wanted a light-JavaScript option for a components library to make better, more powerful websites in an easier, faster, and simple way. Mup - <strong>Mu</strong>lti-<strong>P</strong>age - works by rendering with JavaScript and adds minimal load times. I made Mup because I didn't need complex, powerful tools. Just something I can make a navigation bar and footer component with, and have everything else be customizable. It just makes life easier for smaller front-end websites.
+<br><br>
+Is Mup super simple? Yes, but I needed something simple and without too many unwanted features. Mup is specifically designed for GitHub Pages front-end only websites that have an ever-growing number of pages with components that need to exist on most if not all pages.
+<p>

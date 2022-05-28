@@ -1,0 +1,11 @@
+<div class="section is-large has-background-info">
+    <h1 class="title has-text-white has-text-centered">
+        Mup.js
+    </h1>
+    <h2 class="subtitle has-text-white has-text-centered">
+        Multi-page components
+    </h2>
+    <div class="has-text-centered has-text-white">
+        <p><a class="button is-black" href="https://github.com/loralighte/mup.js">GitHub</a></p>
+    </div>
+</div>
